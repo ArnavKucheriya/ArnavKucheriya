@@ -5,7 +5,7 @@ I also do Game Development using **Unity**, **Unreal Engine 5** and **Cryengine*
 <details>
 <summary>Take a look at some of my Projects :</summary>
 <br>
-[Initial Drift](https://arnavkucheriya.github.io/InitialDrift/)
+  <a href="https://arnavkucheriya.github.io/InitialDrift/">Initial Drift]</a>
 
 ![IMAGE1](https://github.com/ArnavKucheriya/InitialDrift/blob/main/Images/Screenshot%20(62).png)
 
