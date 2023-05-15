@@ -2,7 +2,9 @@
 ## About Me -
 I'm a Computer Science student and Enthusiast. I am currently planning on delving in the field of **Quantum Computing** and **Theoretical Computing**.
 I also do Game Development using **Unity**, **Unreal Engine 5** and **Cryengine**.
-## Take a look at some of my Projects :
+<details>
+<summary>Take a look at some of my Projects :</summary>
+<br>
 # [Initial Drift](https://arnavkucheriya.github.io/InitialDrift/)
 
 ![IMAGE1](https://github.com/ArnavKucheriya/InitialDrift/blob/main/Images/Screenshot%20(62).png)
@@ -14,6 +16,7 @@ I also do Game Development using **Unity**, **Unreal Engine 5** and **Cryengine*
 # [City Runner](https://arnavkucheriya.github.io/CityRunner/)
 
 ![Start Screen](https://github.com/ArnavKucheriya/CityRunner/blob/main/Images/Screenshot%20(57).png)
+</details>
 
 <!--
 **ArnavKucheriya/ArnavKucheriya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
