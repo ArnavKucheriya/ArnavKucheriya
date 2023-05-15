@@ -1,4 +1,10 @@
-### Hi there 👋
+### Welcome!
+## About Me -
+I'm a Computer Science student and Enthusiast. I am currently planning on delving in the field of **Quantum Computing** and **Theoretical Computing**.
+I also do Game Development using **Unity**, **Unreal Engine 5** and **Cryengine**.
+## Take a look at some of my Projects :
+[Initial Drift](https://arnavkucheriya.github.io/InitialDrift/)
+<img src="https://github.com/ArnavKucheriya/InitialDrift/blob/main/Images/Screenshot%20(62).png" width="250" height="250">
 
 <!--
 **ArnavKucheriya/ArnavKucheriya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
