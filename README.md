@@ -5,15 +5,15 @@ I also do Game Development using **Unity**, **Unreal Engine 5** and **Cryengine*
 <details>
 <summary>Take a look at some of my Projects :</summary>
 <br>
-# [Initial Drift](https://arnavkucheriya.github.io/InitialDrift/)
+[Initial Drift](https://arnavkucheriya.github.io/InitialDrift/)
 
 ![IMAGE1](https://github.com/ArnavKucheriya/InitialDrift/blob/main/Images/Screenshot%20(62).png)
 
-# [Dooms Day Fractals](https://arnavkucheriya.github.io/DoomsDay_Fractals/)
+[Dooms Day Fractals](https://arnavkucheriya.github.io/DoomsDay_Fractals/)
 
 ![Julia2](https://github.com/ArnavKucheriya/DoomsDay_Fractals/blob/main/ReadMeImgs/Screenshot%20(4).png)
 
-# [City Runner](https://arnavkucheriya.github.io/CityRunner/)
+[City Runner](https://arnavkucheriya.github.io/CityRunner/)
 
 ![Start Screen](https://github.com/ArnavKucheriya/CityRunner/blob/main/Images/Screenshot%20(57).png)
 </details>
