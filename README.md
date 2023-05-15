@@ -18,6 +18,12 @@ I also do Game Development using **Unity**, **Unreal Engine 5** and **Cryengine*
 ![Start Screen](https://github.com/ArnavKucheriya/CityRunner/blob/main/Images/Screenshot%20(57).png)
 </details>
 
+<details>
+  <summary>Algorithm Labs and Projects :</summary>
+  <br>
+  <a href="https://github.com/ArnavKucheriya/CS3_CRHS">CR-CS Algorithms</a>
+  <a href="https://github.com/ArnavKucheriya/CS4_ReGex_Labs">CS4-Regex</a>
+  </details>
 <!--
 **ArnavKucheriya/ArnavKucheriya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
