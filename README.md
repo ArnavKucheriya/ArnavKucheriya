@@ -5,7 +5,9 @@ I also do Game Development using **Unity**, **Unreal Engine 5** and **Cryengine*
 ## Take a look at some of my Projects :
 [Initial Drift](https://arnavkucheriya.github.io/InitialDrift/)
 
-<img src="https://github.com/ArnavKucheriya/InitialDrift/blob/main/Images/Screenshot%20(62).png" width="400" height="400">
+![IMAGE1](https://github.com/ArnavKucheriya/InitialDrift/blob/main/Images/Screenshot%20(62).png)
+
+[Dooms Day Fractals](https://arnavkucheriya.github.io/DoomsDay_Fractals/)
 
 <!--
 **ArnavKucheriya/ArnavKucheriya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
