@@ -3,6 +3,7 @@
 I'm a Computer Science student and Enthusiast. I am currently planning on delving in the field of **Quantum Computing** and **Theoretical Computing**.
 I also do Game Development using **Unity**, **Unreal Engine 5** and **Cryengine**.
 
+![ArnavKucheriya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArnavKucheriya&show_icons=true&theme=dracula)
 
 <details>
 <summary>Take a look at some of my Projects :</summary>
