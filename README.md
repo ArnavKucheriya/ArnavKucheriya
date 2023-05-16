@@ -6,7 +6,7 @@ I also do Game Development using **Unity**, **Unreal Engine 5** and **Cryengine*
 ![ArnavKucheriya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArnavKucheriya&show_icons=true&theme=dracula)
 
 <details>
-<summary>Take a look at some of my Projects :</summary>
+  <h2><summary>Take a look at some of my Projects :</summary></h2>
 <br>
 <a href="https://arnavkucheriya.github.io/InitialDrift/">Initial Drift</a>
 
@@ -22,7 +22,7 @@ I also do Game Development using **Unity**, **Unreal Engine 5** and **Cryengine*
 </details>
 
 <details>
-  <summary>Algorithm Labs and Projects :</summary>
+  <h2><summary>Algorithm Labs and Projects :</summary></h2>
   <br>
   <a href="https://github.com/ArnavKucheriya/CS3_CRHS">CR-CS Algorithms</a>
   
