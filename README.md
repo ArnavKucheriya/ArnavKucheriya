@@ -28,6 +28,9 @@ I also do Game Development using **Unity**, **Unreal Engine 5** and **Cryengine*
   
   <a href="https://github.com/ArnavKucheriya/CS4_ReGex_Labs">CS4-Regex</a>
   </details>
+  
+  Proficient in :
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,cpp,cs,c,angular)](https://skillicons.dev)
 <!--
 **ArnavKucheriya/ArnavKucheriya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
