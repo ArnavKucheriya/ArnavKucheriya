@@ -4,7 +4,7 @@ I'm a Computer Science student and Enthusiast. I am currently planning on delvin
 I also do Game Development using **Unity**, **Unreal Engine 5** and **Cryengine**.
 
 [![ArnavKucheriya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArnavKucheriya)](https://github.com/ArnavKucheriya/github-readme-stats)
-
+![ArnavKucheriya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArnavKucheriya&show_icons=true&theme=radical)
 <details>
 <summary>Take a look at some of my Projects :</summary>
 <br>
