@@ -45,7 +45,7 @@ I also do Game Development using **Unity**, **Unreal Engine 5** and **Cryengine*
 
 ### Cloud -
 
-  [![My Skills](https://skillicons.dev/icons?i=azure,awp)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=azure,aws)](https://skillicons.dev)
   
 ### Databases -
 
