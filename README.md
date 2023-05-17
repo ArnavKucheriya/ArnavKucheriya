@@ -27,7 +27,8 @@ I also do Game Development using **Unity**, **Unreal Engine 5** and **Cryengine*
   <a href="https://github.com/ArnavKucheriya/CS4_ReGex_Labs">CS4-Regex</a>
   </details>
   <details>
-  <h2>Languge and Data Base Proficiency -</h2>
+  <summary><h2>Languge and Data Base Proficiency -</h2></summary>
+  <br>
   <summary><h3>Front End -</h3></summary>
 
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,react,jquery)](https://skillicons.dev)
