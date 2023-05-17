@@ -1,6 +1,6 @@
 # Welcome To Arnav Kucheriya's GitHub!
 ## About Me -
-I'm a Computer Science student and Enthusiast. I am currently planning on delving in the field of **Quantum Computing** and **Theoretical Computing**.
+I'm a Computer Science student and Enthusiast. I am currently exploring the fields of **Quantum Computing** and **Theoretical Computing**.
 I also do Game Development using **Unity**, **Unreal Engine 5** and **Cryengine**.
 
 ![ArnavKucheriya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArnavKucheriya&show_icons=true&theme=dracula)
@@ -19,8 +19,7 @@ I also do Game Development using **Unity**, **Unreal Engine 5** and **Cryengine*
 <a href="https://arnavkucheriya.github.io/CityRunner/">City Runner</a>
 
 ![Start Screen](https://github.com/ArnavKucheriya/CityRunner/blob/main/Images/Screenshot%20(57).png)
-</details>
-<details>
+</details><details>
   <summary><h2>Algorithm Labs and Projects :</h2></summary>
   <br>
   <a href="https://github.com/ArnavKucheriya/CS3_CRHS">CR-CS Algorithms</a>
