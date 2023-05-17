@@ -3,7 +3,7 @@
 I'm a Computer Science student and Enthusiast. I am currently exploring the fields of **Quantum Computing** and **Theoretical Computing**.
 I also do Game Development using **Unity**, **Unreal Engine 5** and **Cryengine**.
 
-![ArnavKucheriya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArnavKucheriya&show_icons=true&theme=dracula) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArnavKucheriya&layout=compact&theme=dracula)](https://github.com/ArnavKucheriya/github-readme-stats)
+![ArnavKucheriya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArnavKucheriya&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArnavKucheriya&layout=compact&theme=tokyonight)](https://github.com/ArnavKucheriya/github-readme-stats)
   
 ## Currently Working on : ***Initial Drift***
 
