@@ -4,6 +4,8 @@ I'm a Computer Science student and Enthusiast. I am currently exploring the fiel
 I also do Game Development using **Unity**, **Unreal Engine 5** and **Cryengine**.
 
 ![ArnavKucheriya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArnavKucheriya&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArnavKucheriya&layout=pie)](https://github.com/ArnavKucheriya/github-readme-stats)
   
 ## Currently Working on : ***Initial Drift***
 
