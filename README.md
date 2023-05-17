@@ -27,28 +27,29 @@ I also do Game Development using **Unity**, **Unreal Engine 5** and **Cryengine*
   <a href="https://github.com/ArnavKucheriya/CS4_ReGex_Labs">CS4-Regex</a>
   </details>
   
-## Proficiency -
-
-### Front End -
+## Languge and Data Base Proficiency -
+<details>
+  <summary><h3>Front End -</h3></summary>
 
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,react,jquery)](https://skillicons.dev)
   
-### Back End -
+  <summary><h3>Back End -</h3></summary>
 
   [![My Skills](https://skillicons.dev/icons?i=java,cpp,cs,c,python,rust)](https://skillicons.dev)
   
-### Game Dev -
+  <summary><h3>Game Dev -</h3></summary>
 
   [![My Skills](https://skillicons.dev/icons?i=unity,unreal)](https://skillicons.dev)
 
-### Cloud -
+  <summary><h3>Cloud -</h3></summary>
 
   [![My Skills](https://skillicons.dev/icons?i=azure,aws)](https://skillicons.dev)
   
-### Databases -
+  <summary><h3>Databases -</h3></summary>
 
   [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
 
+   </details>
 
 
 
