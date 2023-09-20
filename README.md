@@ -1,3 +1,5 @@
+![pixel-jeff-clipc-s](https://github.com/ArnavKucheriya/ArnavKucheriya/assets/114359370/53b33f74-30b6-4268-8ad2-d8e3794e563b)
+<!--
 ![cyber-city-1920x1080](https://github.com/ArnavKucheriya/ArnavKucheriya/assets/114359370/24bd69d7-93e4-451d-a940-157666903a86)
 <!--
 # Welcome To Arnav Kucheriya's GitHub!
