@@ -1,4 +1,4 @@
-[Kucheriya, Arnav](https://arnavkucheriya.github.io/Portfolio_ArnavKucheriya/)
+[Portfolio](https://arnavkucheriya.github.io/Portfolio/)
 
 ![pixel-jeff-clipc-s](https://github.com/ArnavKucheriya/ArnavKucheriya/assets/114359370/25ea7f6c-742a-4ea8-a4d8-c8cb369cffc6)
 <!--
