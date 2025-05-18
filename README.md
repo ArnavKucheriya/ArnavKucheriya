@@ -1,7 +1,7 @@
 [![White   Black Simple Personal LinkedIn Banner](https://github.com/user-attachments/assets/4b3fcfc6-01aa-49ab-9d99-8880523dc972)](https://arnavkucheriya.github.io/Portfolio/)
 ## About Me - [Arnav Kucheriya](https://arnavkucheriya.github.io/Portfolio/)
 
-[![Socail](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ArnavKucheriya/)
+[![Socail](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ArnavKucheriya/) [![Socail](https://skillicons.dev/icons?i=github)](https://github.com/ArnavKucheriya/) [![Socail](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/arnavkucheriya) 
 
 I'm a Computer Science student and Enthusiast.
 
