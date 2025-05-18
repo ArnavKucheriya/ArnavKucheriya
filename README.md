@@ -1,8 +1,16 @@
+# Welcome To Arnav Kucheriya's GitHub!
+![White   Black Simple Personal LinkedIn Banner](https://github.com/user-attachments/assets/4b3fcfc6-01aa-49ab-9d99-8880523dc972)
+## About Me -
+I'm a Computer Science student and Enthusiast. I am currently exploring the fields of **Machine Learning**, **Data Science**, and **Theoretical Computing**.
+I also do Game Development using **Unity**, and **Unreal Engine 5**.
+
+
+<!-- 
 [Portfolio](https://arnavkucheriya.github.io/Portfolio/)
 
 Click the IMAGE!
 
-[![pixel-jeff-clipc-s](https://github.com/ArnavKucheriya/ArnavKucheriya/assets/114359370/25ea7f6c-742a-4ea8-a4d8-c8cb369cffc6)](https://arnavkucheriya.github.io/Portfolio/)
+<!-- [![pixel-jeff-clipc-s](https://github.com/ArnavKucheriya/ArnavKucheriya/assets/114359370/25ea7f6c-742a-4ea8-a4d8-c8cb369cffc6)](https://arnavkucheriya.github.io/Portfolio/)
 <!--
 ![pixel-jeff-clipc-s](https://github.com/ArnavKucheriya/ArnavKucheriya/assets/114359370/53b33f74-30b6-4268-8ad2-d8e3794e563b)
 <!--
