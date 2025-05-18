@@ -1,18 +1,22 @@
 [![White   Black Simple Personal LinkedIn Banner](https://github.com/user-attachments/assets/4b3fcfc6-01aa-49ab-9d99-8880523dc972)](https://arnavkucheriya.github.io/Portfolio/)
-## About Me - [Arnav Kucheriya](https://arnavkucheriya.github.io/Portfolio/)
 
-[![Socail](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ArnavKucheriya/) [![Socail](https://skillicons.dev/icons?i=github)](https://github.com/ArnavKucheriya/) [![Socail](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/arnavkucheriya) 
+## About Me - <a href="https://arnavkucheriya.github.io/Portfolio/" target="_blank">Arnav Kucheriya</a>
+
+<a href="https://www.linkedin.com/in/ArnavKucheriya/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"></a>
+<a href="https://github.com/ArnavKucheriya/" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"></a>
+<a href="https://www.instagram.com/arnavkucheriya" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"></a>
 
 I'm a Computer Science student and Enthusiast.
 
 Exploring:
 - **Machine Learning**
 - **Data Science**
-- **Theoretical Computing**.
+- **Theoretical Computing**
 
 I also do Game Development using **Unity**, and **Unreal Engine 5**.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArnavKucheriya&layout=compact)
+
 
 <!-- 
 [Portfolio](https://arnavkucheriya.github.io/Portfolio/)
