@@ -13,7 +13,10 @@ Exploring:
 - **Data Science**
 - **Theoretical Computing**
 
-I also do Game Development using **Unity**, and **Unreal Engine 5**.
+I am also interested in Game Design and Development: 
+- **Unity**
+- **Unreal Engine 5**
+- **Blender**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArnavKucheriya&layout=compact)
 
