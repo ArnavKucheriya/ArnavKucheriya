@@ -1,9 +1,17 @@
-# Welcome To Arnav Kucheriya's GitHub!
 [![White   Black Simple Personal LinkedIn Banner](https://github.com/user-attachments/assets/4b3fcfc6-01aa-49ab-9d99-8880523dc972)](https://arnavkucheriya.github.io/Portfolio/)
 ## About Me -
-I'm a Computer Science student and Enthusiast. I am currently exploring the fields of **Machine Learning**, **Data Science**, and **Theoretical Computing**.
+I'm a Computer Science student and Enthusiast.
+
+Exploring:
+- **Machine Learning**
+- **Data Science**
+- **Theoretical Computing**.
+
 I also do Game Development using **Unity**, and **Unreal Engine 5**.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArnavKucheriya&layout=compact)
+
+## Portfolio: [Arnav Kucheriya](https://arnavkucheriya.github.io/Portfolio/)
 
 <!-- 
 [Portfolio](https://arnavkucheriya.github.io/Portfolio/)
