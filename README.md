@@ -5,7 +5,6 @@
 <a href="https://www.linkedin.com/in/ArnavKucheriya/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"></a>
 <a href="https://github.com/ArnavKucheriya/" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"></a>
 <a href="https://www.instagram.com/arnavkucheriya" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"></a>
-<a href="https://www.instagram.com/arnavkucheriya" target="_blank"><img src="https://skillicons.dev/icons?i=substack" alt="Substack"></a>
 
 I'm a Computer Science student and Enthusiast.
 
