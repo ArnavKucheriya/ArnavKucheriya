@@ -13,10 +13,7 @@ Exploring:
 - **Data Science**
 - **Theoretical Computing**
 
-I am also interested in Game Design and Development: 
-- **Unity**
-- **Unreal Engine 5**
-- **Blender**
+I am also interested in Statistics, Statistical Analysis and Modeling, and Photography!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArnavKucheriya&layout=compact)
 
