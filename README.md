@@ -1,7 +1,7 @@
 [![Abstract Technology Profile LinkedIn Banner](https://github.com/user-attachments/assets/22b3bd9e-f980-44af-bf87-f2b94beba102)](https://arnavkucheriya.github.io/Portfolio/)
 
 ## About Me - <a href="https://arnavkucheriya.github.io/Portfolio/" target="_blank">Arnav Kucheriya</a>
-<div align="center">
+<div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ArnavKucheriya.ArnavKucheriya&"  />
 </div>
 
