@@ -1,6 +1,9 @@
 [![Abstract Technology Profile LinkedIn Banner](https://github.com/user-attachments/assets/22b3bd9e-f980-44af-bf87-f2b94beba102)](https://arnavkucheriya.github.io/Portfolio/)
 
 ## About Me - <a href="https://arnavkucheriya.github.io/Portfolio/" target="_blank">Arnav Kucheriya</a>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ArnavKucheriya.ArnavKucheriya&"  />
+</div>
 
 <a href="https://www.linkedin.com/in/ArnavKucheriya/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"></a>
 <a href="https://github.com/ArnavKucheriya/" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"></a>
@@ -15,8 +18,14 @@ Exploring:
 
 I am also interested in Statistics, Statistical Analysis and Modeling, and Photography!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArnavKucheriya&layout=compact)
 
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ArnavKucheriya&locale=en&mode=daily&theme=codeSTACKr&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArnavKucheriya&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
+</div>
 
 <!-- 
 [Portfolio](https://arnavkucheriya.github.io/Portfolio/)
