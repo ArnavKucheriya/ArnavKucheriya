@@ -23,7 +23,7 @@ I am also interested in Statistics, Statistical Analysis and Modeling, and Photo
 ###
 
 <div align="center">
-  <!-- <img src="https://streak-stats.demolab.com?user=ArnavKucheriya&locale=en&mode=daily&theme=codeSTACKr&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  /> -->
+  <img src="https://streak-stats.demolab.com?user=ArnavKucheriya&locale=en&mode=daily&theme=codeSTACKr&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArnavKucheriya&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
 
